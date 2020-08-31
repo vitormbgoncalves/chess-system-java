@@ -23,5 +23,7 @@
 hs_err_pid*
 
 #InteliJ
-.idea/
+modules.xml
+vcs.xml
+workspace.xml
 ProjetoJogoDeXadrez.iml
