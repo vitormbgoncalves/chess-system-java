@@ -32,7 +32,7 @@ git clone https://github.com/vitormbgoncalves/chess-system-java.git
 cd chess-system-java/src
 ```
 
-2. Para compilar o códigoe execute o comando abaixo;
+2. Para compilar o código do projeto execute o comando abaixo;
 
 ```shell
 javac application/Program.java
