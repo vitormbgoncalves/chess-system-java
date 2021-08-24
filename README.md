@@ -25,17 +25,25 @@ A mecânica do jogo é baseada em **linhas** (_1, 2, 3, 4, 5, 6, 7, 8_) e **colu
 
 ## 💻  Instalação
 
-1. Clone o projeto através do terminal;
+1. Clone o projeto git através do terminal;
 
 ```shell
 git clone https://github.com/vitormbgoncalves/chess-system-java.git
 cd chess-system-java/src
 ```
 
-3. Para rodar a aplicação no Linux, execute o código abaixo;
+2. Para compilar o códigoe execute o comando abaixo;
 
 ```shell
 javac application/Program.java
 ```
 
-4. Bom Jogo!
+3. Para rodar a aplicação execute o comando abaixo;
+
+```shell
+java application/Program
+```
+
+## Nota rápida
+
+Este projeto foi desenvolvido e executado no Linux.
