@@ -23,7 +23,7 @@ A mecânica do jogo é baseada em **linhas** (_1, 2, 3, 4, 5, 6, 7, 8_) e **colu
 - **Target** é o destino, ou seja, o local no qual o jogador irá mover a peça.
 - O jogo possui sistema de **Check** e **CheckMate**
 
-## 💻  Instalacao
+## 💻  Instalação
 
 1. Clone o projeto através do terminal;
 
