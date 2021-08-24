@@ -44,6 +44,6 @@ javac application/Program.java
 java application/Program
 ```
 
-## Nota rápida
+## 🗒 Nota rápida
 
 Este projeto foi desenvolvido e executado no Linux.
